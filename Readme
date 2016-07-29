@@ -1,0 +1,6 @@
+source folder contain the source code {.m .h .d}
+bin folder contain the execute file
+what does the *.d file stand for ?
+    Note that this convention has been adopted by many applications moving from a single file condiguration file to multiple configuration files loated in a single directory.
+
+    
